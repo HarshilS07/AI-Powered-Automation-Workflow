@@ -1,3 +1,4 @@
+<img width="538" height="346" alt="image" src="https://github.com/user-attachments/assets/5aa25e8e-f5dd-4e1a-b3df-30267462946d" />
 # 🏡 AI Airbnb Booking Workflow
 
 An AI-powered chatbot workflow to assist users in finding the perfect Airbnb listing using OpenAI, memory components, and a connected Google Sheet.
